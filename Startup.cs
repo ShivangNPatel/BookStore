@@ -62,7 +62,7 @@ namespace BookStore
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}"); //  this is default route pattern whuich is likely going to be change 
                 endpoints.MapRazorPages();
             });
         }
