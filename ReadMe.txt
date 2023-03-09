@@ -24,3 +24,6 @@ push the application to github
 create the .md file then pull it
 
 bootstrap added
+
+Add a dropdown menu in nav bar
+
