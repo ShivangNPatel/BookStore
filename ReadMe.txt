@@ -39,11 +39,11 @@ push the application to github
 
 
 
-create the .md file then pull it
+create the Readme.md file then pull it
 
 
 
-Select a theme of the bootstrap and the copy the code of NavBar and also download the bootstrap.min.css
+Select a Vapor theme of the bootstrap and the copy the code of NavBar and also download the bootstrap.min.css
 Then change the name of bootstrap.css to bootstrap.bk.css, then add a download file bootstrap.min.css to wwwroot < lib < bootstrap < dist < css
 After then paste the code into bootstrap.min.css.
 
