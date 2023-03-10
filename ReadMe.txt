@@ -80,3 +80,10 @@ Then write a proper Readme for the last 3 steps
 
 Then update it on github
 
+3-10-23
+3:35
+
+Add a css to footer
+Test the app and it runs perfectly
+then update it on github
+
